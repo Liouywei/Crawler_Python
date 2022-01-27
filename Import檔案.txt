@@ -1,0 +1,13 @@
+﻿pip install pandas
+pip install requests
+pip install requests_html
+pip install matplotlib
+pip install xlrd
+pip install xlwt
+pip install openpyxl
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+pip uninstall scikit-learn
+pip uninstall numpy
+pip uninstall scipy
